@@ -1,1 +1,1 @@
-bin/* merge=ours
+bin/** merge=ours
